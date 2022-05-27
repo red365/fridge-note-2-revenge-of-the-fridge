@@ -1,0 +1,5 @@
+## Fridge Note 2: The Revenge Of The Fridge
+
+This is an update of my fridge-note repo. The design is a guilty pleasure of mine and so I thought that with a persistent back-end I might actually use this to keep track of development stories for other personal projects I'm working on. With that in mind I decided I'd add a db and do a quick and dirty update of the code. As the original was simple and written with pure JS I thought I'd try using this as a test project for a JS paradigm I've not used before so I can try learning something new at the same time. I chose Svelte as I've heard good things about it and found the component style (html, css and JS separate concerns but all encapsulated to each component) clean. To continue the theme of learning something new I also opted for a MongoDB backend. I had used Mongo before, didn't really like it compared to a typical relational db but wanted to give it another try especially as the data model for this app is very simple and only requires one collection.
+
+I plan to make it fully mobile responsive at some point using media queries provided I can make the background seamless vertically.
